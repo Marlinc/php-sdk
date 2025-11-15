@@ -4,6 +4,7 @@ This repository contains the SDK for the CBWS cloud platform.
 
 Currently supported services:
 
+- CBWS Accounts (OAuth2)
 - CBWS Compute
 
 [release]: https://img.shields.io/github/release/cbws/php-sdk.svg "sdk"
